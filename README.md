@@ -1,7 +1,7 @@
 
 
 <!--
-**Aindrail/Aindrail** is a ✨ _special_ ✨ repository because  `README.md` (this file) appears on your GitHub profile.
+**Aindrail/Aindrail** is a ✨ _special_ ✨ repositor because  `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
