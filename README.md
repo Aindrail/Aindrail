@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 <h3 align="center">A passionate developer from India</h3>
 <p align="right"><img src= "https://github.com/Aindrail/Aindrail/blob/main/Work-Fun.gif"align="right" width=50%>
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=aindrail&label=Profile%20views&color=0e75b6&style=flat" alt="aindrail" /> </p>
- -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aindrail&label=Profile%20views&color=0e75b6&style=flat" alt="aindrail" /> </p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/aindrail" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="aindrail" height="30" width="40" /></a>
