@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
  -->
-<!-- <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">  I'm Aindrail Santra</h1>
- -->
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">  I'm Aindrail Santra</h1>
+
 <h3 align="center">A passionate developer from India</h3>
 <p align="right"><img src= "https://github.com/Aindrail/Aindrail/blob/main/Work-Fun.gif"align="right" width=50%>
 
