@@ -1,7 +1,7 @@
 
 
 
-**Aindrail/Aindrail** is a ✨ _special_ ✨ repository because  `README.md` (this file) appears on your GitHub profile.
+<!-- **Aindrail/Aindrail** is a ✨ _special_ ✨ repository because  `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+ -->
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">  I'm Aindrail Santra</h1>
 
 <h3 align="center">A passionate developer from India</h3>
