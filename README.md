@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">  I'm Aindrail Santra</h1>
 
 <h3 align="center">A passionate developer from India</h3>
-<p align="right"><img src= "https://github.com/Aindrail/Aindrail/blob/main/Work-Fun.gif"align="right" width=50%>
+<p align="right"><img src= "https://github.com/Aindrail/Aindrail/blob/main/Work-Fun.gif" align ="right" width=50%>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aindrail&label=Profile%20views&color=0e75b6&style=flat" alt="aindrail" /> </p>
 
